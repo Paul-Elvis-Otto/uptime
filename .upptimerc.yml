@@ -13,9 +13,9 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  theme: dark
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Chek the availability of *Zweitstimme.org*"
+  theme: light
+  introMessage: This is a status page which uses **real-time** data
   navbar:
     - title: Status
       href: /
